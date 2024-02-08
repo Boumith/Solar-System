@@ -7,3 +7,4 @@
       2.Each planet has its own orbit, and the orbits rotate to simulate the motion of planets.
       3.Planets have unique styles and sizes for easy identification.
       4.Background image provides a celestial backdrop.
+  >> For better view zoom out to 25%.
